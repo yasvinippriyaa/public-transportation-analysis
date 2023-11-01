@@ -1,4 +1,4 @@
-__Summary__
+__Public Transportation Efficiency Analysis - IBM Congos__
 
 Dataset link: https://www.kaggle.com/datasets/rednivrug/unisys?select=20140711.CSV
 
@@ -22,6 +22,7 @@ __Insights__
 
 RouteID 222.0 has the highest total NumberOfBoardings due to WeekBeginning 2013-07-21.
 NumberOfBoardings is unusually high when RouteID is 222 and 300.
+
 Visualizing NoOfBoardings by StopName:
 
 ![sec](https://github.com/yasvinippriyaa/public-transportation-analysis/assets/139134650/a58cfcb8-70af-4b20-92a5-0bccd1b6336b)
@@ -29,4 +30,7 @@ Visualizing NoOfBoardings by StopName:
 __Insights__
 
 NumberOfBoardings is unusually high when StopName is X1 King William St.
+
 A heat map representing NoOfBoardings by TripID for the WeekBeginning from 7/7/2013 to 8/25/2013:
+
+![third](https://github.com/yasvinippriyaa/public-transportation-analysis/assets/139134650/a87f91e5-02fa-4e40-9b08-9f93a0a4be96)
