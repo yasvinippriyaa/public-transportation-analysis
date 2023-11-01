@@ -1,16 +1,20 @@
 __Summary__
+
 Dataset link: https://www.kaggle.com/datasets/rednivrug/unisys?select=20140711.CSV
+
 To run the code snippets in these notebooks (DAC_Phase2, DAC_Phase3 and DAC_Phase4), download this dataset and the notebooks and integrate them in your Jupyter workspace. 
 Alternatively, open a notebook in the kaggle dataset itself using your kaggle account and try running these snippets in order.
 
-To produce visualisations:
+__To produce visualisations__
 Sign up or Sign in to your IBM Cognos account: https://www.ibm.com/account/reg/us-en/signup?formid=urx-34710
 Compress the cleaned dataset and upload it into “My Content”
 Create dashboard and explore visualisations
 Just drag and drop columns onto visualisation fields.
 
-Sample visualisations:
+__Sample visualisations__
 A bar chart visualizing the noOfBoardings for each route for RouteID ranging from 100 to 288:
+
+![first](https://github.com/yasvinippriyaa/public-transportation-analysis/assets/139134650/b4de561f-22a6-4eb6-af99-ccd8fb32db29)
 
 Insights:
 RouteID 222.0 has the highest total NumberOfBoardings due to WeekBeginning 2013-07-21.
